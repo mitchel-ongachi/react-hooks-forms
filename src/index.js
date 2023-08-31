@@ -3,6 +3,6 @@ import ReactDOM from 'react-dom';
 import Form from './components/Form'
 
 ReactDOM.render(
-  <Form />,
+  <ParentComponent />,
   document.getElementById('root')
 );
